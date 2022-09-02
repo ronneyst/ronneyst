@@ -2,6 +2,8 @@
 
 - 📫 let's talk: @ronneyst
 
+<a href="https://www.linkedin.com/in/ronney-santos/" target="_blank">Linkedinho</a>
+
 <a href="https://www.linkedin.com/in/ronney-santos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a> 
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"></img>
